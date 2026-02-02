@@ -13,6 +13,7 @@ I build things at the intersection of **scientific computing**, **applied ML**, 
 - Teaching Assistant & piano instructor  
 - Student representative (ENLIGHT)  
 - Co-founder of **SPEKTAKEL** (student platform/project)
+- Research Assistant on Celestial Mechanics
 
 
 
