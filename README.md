@@ -28,7 +28,7 @@ I build things at the intersection of **scientific computing**, **applied ML**, 
   <tr>
     <td align="center" width="50%">
       <img src="figues/LC_figures_chaotic.png" width="95%">
-      <br><em>3-body chaotic simulation example (3D trajectory view).</em>
+      <br><em>3-body chaotic simulation example</em>
     </td>
     <td align="center" width="50%">
       <img src="figues/3-body_Lagrange_unit_circ.png" width="95%">
